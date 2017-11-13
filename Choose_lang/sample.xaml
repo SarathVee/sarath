@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pop:PopupPage  xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pop="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+                xmlns:cbox="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             x:Class="Choose_lang.sample">
+    <StackLayout VerticalOptions="Center" 
+        HorizontalOptions="FillAndExpand" 
+        Padding="20, 10, 20, 20" 
+        Opacity="0.9">
+        <Frame BackgroundColor="White" HasShadow="False" Padding="10">
+            <StackLayout >
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Label Text="Read"  TextColor="Black" HorizontalOptions="Start" Grid.Row="0" Grid.Column="0"/>
+                    <cbox:CheckBox HorizontalOptions="End" CheckedText="Read" Grid.Row="0" Grid.Column="1" x:Name="cb_read"/>
+                    <Label Text="Write" TextColor="Black" HorizontalOptions="Start" Grid.Row="1" Grid.Column="0"/>
+                    <cbox:CheckBox HorizontalOptions="End" CheckedText="Write" Grid.Row="1" Grid.Column="1" x:Name="cb_write"/>
+                    <Label Text="Speak" TextColor="Black" HorizontalOptions="Start" Grid.Row="2" Grid.Column="0"/>
+                    <cbox:CheckBox HorizontalOptions="End" CheckedText="Speak" Grid.Row="2" Grid.Column="1" x:Name="cb_speak"/>
+                </Grid>
+                <Button Text="Apply" x:Name="btn_apply"  BorderColor="#9DC96F" BackgroundColor="White" BorderWidth="2" FontFamily="MYRIADPRO-BOLD" FontAttributes="Bold" FontSize="20"/>
+            </StackLayout>
+        </Frame>
+    </StackLayout>
+</pop:PopupPage>

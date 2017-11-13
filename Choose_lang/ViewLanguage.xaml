@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pop:PopupPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:pop="clr-namespace:Rg.Plugins.Popup.Pages;assembly=Rg.Plugins.Popup"
+                 xmlns:cbox="clr-namespace:XLabs.Forms.Controls;assembly=XLabs.Forms"
+             x:Class="Choose_lang.ViewLanguage" BackgroundColor="White">
+
+    <StackLayout>
+        <Grid>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="*" />
+                <RowDefinition Height="*" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Label Text="ID" FontSize="Small" HorizontalOptions="Start" Grid.Row="0" Grid.Column="0"/>
+            <Label Text="Language" FontSize="Small" HorizontalOptions="Start" Grid.Row="0" Grid.Column="1"/>
+            <Label Text="Read" FontSize="Small" HorizontalOptions="Start" Grid.Row="0" Grid.Column="2"/>
+            <Label Text="Write" FontSize="Small" HorizontalOptions="Start" Grid.Row="0" Grid.Column="3"/>
+            <Label Text="Speak" FontSize="Small" HorizontalOptions="Start" Grid.Row="0" Grid.Column="4"/>
+            <BoxView  Grid.Row="1" Grid.ColumnSpan="4"  BackgroundColor="Orange" HeightRequest="2" VerticalOptions="End" HorizontalOptions="FillAndExpand"/>
+        </Grid>
+            <ListView  x:Name="lv_lang" IsPullToRefreshEnabled="True" Refreshing="lv_lang_Refreshing" IsRefreshing="{Binding Isref}">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="*" />
+                                </Grid.RowDefinitions>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                              
+                                <Label Text="{Binding ID}" FontSize="Small" HorizontalOptions="Start" Grid.Row="0" Grid.Column="0"/>
+                                <Label Text="{Binding Language}" FontSize="Small" HorizontalOptions="Start" Grid.Row="0" Grid.Column="1"/>
+                                <cbox:CheckBox HorizontalOptions="End" Checked="{Binding Read}" DefaultText="Read" Grid.Row="0" Grid.Column="2" />
+                                <cbox:CheckBox HorizontalOptions="End" Checked="{Binding Write}" DefaultText="Write" Grid.Row="0" Grid.Column="3" />
+                                <cbox:CheckBox HorizontalOptions="End" Checked="{Binding Speak}" DefaultText="Speak" Grid.Row="0" Grid.Column="4" />
+
+                                <!--<Label Text="{Binding Read}" FontSize="Small" HorizontalOptions="Start" Grid.Row="0" Grid.Column="2"/>
+                                    <Label Text="{Binding Write}" FontSize="Small" HorizontalOptions="Start" Grid.Row="0" Grid.Column="3"/>
+                                    <Label Text="{Binding Speak}" FontSize="Small" HorizontalOptions="Start" Grid.Row="0" Grid.Column="4"/>-->
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+    </StackLayout>
+</pop:PopupPage>

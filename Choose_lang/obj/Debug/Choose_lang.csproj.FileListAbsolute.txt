@@ -1,0 +1,71 @@
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Choose_lang.dll.config
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Choose_lang.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Choose_lang.pdb
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\ExifLib.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\SQLite.Net.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Core.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Forms.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Ioc.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Platform.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Serialization.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Core.xml
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Forms.xml
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Ioc.xml
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Platform.xml
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Serialization.xml
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.MainPage.xaml.g.cs
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.App.xaml.g.cs
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.LanguagePage.xaml.g.cs
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.sample.xaml.g.cs
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.dll
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.pdb
+C:\Users\sakv2e10204\Desktop\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.csprojResolveAssemblyReference.cache
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Choose_lang.dll.config
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Choose_lang.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Choose_lang.pdb
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\ExifLib.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Rg.Plugins.Popup.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Rg.Plugins.Popup.Platform.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\SQLite.Net.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Core.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Forms.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Ioc.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Platform.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Serialization.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Core.xml
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Forms.xml
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Ioc.xml
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Platform.xml
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\bin\Debug\XLabs.Serialization.xml
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.MainPage.xaml.g.cs
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.App.xaml.g.cs
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.LanguagePage.xaml.g.cs
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.sample.xaml.g.cs
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.ViewLanguage.xaml.g.cs
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.dll
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.pdb
+C:\Users\SARv2c11117\documents\visual studio 2015\Projects\Choose_lang\Choose_lang\Choose_lang\obj\Debug\Choose_lang.csprojResolveAssemblyReference.cache
